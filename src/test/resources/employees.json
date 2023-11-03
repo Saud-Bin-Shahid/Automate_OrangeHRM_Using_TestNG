@@ -1,0 +1,44 @@
+[
+  {
+    "firstName": "Saul",
+    "lastName": "Kuhlman",
+    "password": "uQ4mqCWetQv",
+    "employeeId": "6783",
+    "username": "svetlana.kub"
+  },
+  {
+    "firstName": "Cornell",
+    "lastName": "Lang",
+    "password": "uh5Bsg!a#D2",
+    "employeeId": "6014",
+    "username": "royce.labadie"
+  },
+  {
+    "firstName": "Eloy",
+    "lastName": "Volkman",
+    "password": "uBPk^4BEM!jU",
+    "employeeId": "6322",
+    "username": "malcom.moen"
+  },
+  {
+    "firstName": "Patrick",
+    "lastName": "Bogisich",
+    "password": "us*fHlw3pd3M",
+    "employeeId": "6192",
+    "username": "sang.bailey"
+  },
+  {
+    "firstName": "Kizzie",
+    "lastName": "Kub",
+    "password": "uyQI4KrBqw4",
+    "employeeId": "6163",
+    "username": "micah.herzog"
+  },
+  {
+    "firstName": "Anderson",
+    "lastName": "Hilll",
+    "password": "uM2@1OrH65p",
+    "employeeId": "6882",
+    "username": "anthony.baumbach"
+  }
+]
